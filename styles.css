@@ -1,0 +1,18 @@
+.main-wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+    background: lightgray;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.language-name {
+    font-style: italic;
+    font-weight: bold;
+}
